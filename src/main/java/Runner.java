@@ -7,6 +7,9 @@ public class Runner {
         System.out.println("degisiklik1");
 
 
+        //versiyon 2
+
+        System.out.println("degisiklik yaptim");
 
     }
 }
