@@ -15,5 +15,10 @@ public class Runner {
 
         System.out.println("yeni degisiklik");
 
+
+        //yeni kodlar ekledim
+
+        //versiyon 7
+
     }
 }
